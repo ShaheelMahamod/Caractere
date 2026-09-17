@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+streamlit-autorefresh>=1.0.1
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.0
+oracledb>=1.4.0
+python-dotenv>=1.0.0
